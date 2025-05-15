@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: befff6656c3efe441b6c1365555733d7, type: 3}
+  m_Name: SimulatorBuildOptions
+  m_EditorClassIdentifier: 
+  scenesToBuild:
+  - {fileID: 102900000, guid: d67bcf11f6964a5409e936c29513b04a, type: 3}
+  - {fileID: 102900000, guid: f3726ecccd122e24cbd5f82da13d421a, type: 3}
+  - {fileID: 102900000, guid: ce4ceca92492eeb4996fb6b6c8b73549, type: 3}
+  - {fileID: 102900000, guid: 5aeb5602255a4b2469eb895d12e20011, type: 3}
+  - {fileID: 102900000, guid: 30cde29949728594085ecc53f0b5534a, type: 3}
+  headlessMode: 1
+  scriptingImplementation: 0
+  developmentBuild: 1
+  buildSizeOptimizations:
+    stripAssets: 0
+    backupAssets: 0
+    compressMeshes: 0
+    disableStaticBatching: 0

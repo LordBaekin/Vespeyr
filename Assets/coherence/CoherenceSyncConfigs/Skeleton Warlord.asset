@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 579f4a509fd2f994fa391c0c78ea3f11, type: 3}
+  m_Name: Skeleton Warlord
+  m_EditorClassIdentifier: 
+  id: ea0ce77a37858c0439454347131e0952
+  selfId: 0efb4779bb808ef49a6efb2c1fa7a1b3
+  editorTarget: {fileID: 4379020186326584981, guid: ea0ce77a37858c0439454347131e0952, type: 3}
+  includeInSchema: 1
+  objectProvider:
+    rid: 6551836161104675146
+  objectInstantiator:
+    rid: 6551836161104675147
+  references:
+    version: 2
+    RefIds:
+    - rid: 6551836161104675146
+      type: {class: DirectReferenceProvider, ns: Coherence.Toolkit, asm: Coherence.Toolkit}
+      data:
+        prefab: {fileID: 4379020186326584981, guid: ea0ce77a37858c0439454347131e0952, type: 3}
+    - rid: 6551836161104675147
+      type: {class: DefaultInstantiator, ns: Coherence.Toolkit, asm: Coherence.Toolkit}
+      data: 

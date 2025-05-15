@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 14d8dcb71d25b1b41af1db75fbfde796
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19644
+  packageName: RPG Kit
+  packageVersion: 
+  assetPath: Assets/Devion Games/Inventory System/Scripts/Runtime/InventoryManager.cs
+  uploadId: 0
